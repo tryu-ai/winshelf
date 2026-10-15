@@ -46,6 +46,12 @@
 
 机制参考：[BongoCat](https://github.com/ayangweb/BongoCat) 的即时反馈、[virtual-bookshelf](https://github.com/petargyurov/virtual-bookshelf) 的个性陈列、[Moodist](https://github.com/remvze/moodist) 的低门槛。没有使用它们的素材或版权角色。
 
+### 反馈 / Feedback
+
+[GitHub 反馈](https://github.com/tryu-ai/winshelf/issues)需账号。可写设备、问题和是否愿意再次使用；请勿公开个人记录。
+
+[GitHub feedback](https://github.com/tryu-ai/winshelf/issues) requires an account. Include your device, the problem, and whether you would use WinShelf again. Do not post personal records.
+
 ### 本地开发
 
 直接打开 `index.html`，或执行 `python3 -m http.server 4173 --bind 127.0.0.1` 后访问 `http://127.0.0.1:4173/`。无需安装依赖或构建工具。

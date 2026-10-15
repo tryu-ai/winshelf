@@ -24,3 +24,5 @@ textarea::placeholder{color:var(--readable-muted)}
 @media(max-width:700px){.offline-downloads{margin:10px 22px 0;align-items:start;flex-direction:column;gap:12px}.primary,.outline-button,.text-button,.export-mode label{min-height:44px}.header-actions .text-button{display:inline-flex;align-items:center}.language-button{width:44px;height:44px}.dialog-close{width:44px;height:44px;right:8px;top:6px}.object-choice label{min-height:72px}.object-choice span{font-size:9px}.composer textarea,#edit-form textarea,input[type=date]{font-size:16px}}
 @media(max-width:370px){.object-picker{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:700px){.text-button,#toast-close,#undo-delete{min-width:44px;min-height:44px}}
+.project-links{display:flex;align-items:center;gap:14px;color:var(--readable-muted)}.project-links a{display:inline-flex;align-items:center;min-width:44px;font-size:12px;text-underline-offset:4px}
+@media(max-width:700px){.project-links a{min-height:44px}}

@@ -11,6 +11,9 @@
 Open WinShelf.html in a browser. No installation or network is required.
 Data stays in this browser. Export a JSON backup before moving the file or changing browsers.
 
+反馈：https://github.com/tryu-ai/winshelf/issues （需 GitHub 账号）。可写设备、问题和是否愿意再次使用；请勿公开个人记录。
+Feedback: https://github.com/tryu-ai/winshelf/issues (GitHub account required). Include your device, the problem, and whether you would use WinShelf again. Do not post personal records.
+
 在线试玩：https://tryu-ai.github.io/winshelf/
 项目源码：https://github.com/tryu-ai/winshelf
 代码与原创素材采用 MIT 许可证，见 LICENSE。
